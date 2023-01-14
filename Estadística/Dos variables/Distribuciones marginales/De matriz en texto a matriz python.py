@@ -43,6 +43,6 @@ def marginales(m):
     print(" " + str(SumaUltimaColumna))
     return
 
-Matriz = retnum('Números de tabla estadistica (Copiar en R).txt')
+Matriz = retnum('Números de tabla estadistica.txt')
 print(Matriz)
 marginales(Matriz)
