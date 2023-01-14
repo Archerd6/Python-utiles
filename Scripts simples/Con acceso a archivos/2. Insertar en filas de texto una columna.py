@@ -28,7 +28,7 @@ for o in range(10):
 
 # Lineas es el array con las filas (strings)
 
-ruta = str(pathlib.Path(__file__).parent.resolve()) +'\\Aa 10.txt'
+ruta = str(pathlib.Path(__file__).parent.resolve()) +'\\2.txt'
 file = open(ruta, 'r')
 lines = [line for line in file]
 

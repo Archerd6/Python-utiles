@@ -1,5 +1,5 @@
 import pathlib
-ruta = str(pathlib.Path(__file__).parent.resolve()) +'\\6.txt'
+ruta = str(pathlib.Path(__file__).parent.resolve()) +'\\1.txt'
 file = open(ruta, 'r')
 
 lines = [line.lower() for line in file]
