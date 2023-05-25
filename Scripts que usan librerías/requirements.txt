@@ -1,0 +1,7 @@
+Pillow
+opencv-python
+numpy
+pyautogui
+pynput
+pyinstaller
+matplotlib
